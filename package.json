@@ -1,8 +1,8 @@
 {
-  "name": "@sensu/embedly",
-  "version": "3.0.2",
+  "name": "@creatantdev/embedly",
+  "version": "3.0.3",
   "description": "Embedly client library for node",
-  "homepage": "https://github.com/sen-su/embedly",
+  "homepage": "https://github.com/creatant-dev/embedly",
   "keywords": [
     "embedly"
   ],
@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sen-su/embedly.git"
+    "url": "git://github.com/creatant-dev/embedly.git"
   },
   "bugs": {
-    "url": "http://github.com/sen-su/embedly/issues"
+    "url": "http://github.com/creatant-dev/embedly/issues"
   },
   "dependencies": {
     "hashish": "0.0.4",
