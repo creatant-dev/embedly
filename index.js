@@ -36,7 +36,7 @@ function embedly(opts) {
   this.config = _.merge({
     key: process.env['EMBEDLY_KEY'],
     host: 'api.embed.ly',
-    userAgent: 'Mozilla/5.0 (compatible; @sensu/embedly/' + pkg.version + ')',
+    userAgent: 'Mozilla/5.0 (compatible; @creatantdev/embedly/' + pkg.version + ')',
     apiVersion: {
       objectify: 2,
       oembed: 1,

@@ -1,4 +1,4 @@
-# @sensu/embedly
+# @creatantdev/embedly
 
 An up to date version of the Embedly node client library.
 To find out what Embedly is all about, please visit http://embed.ly.
@@ -107,7 +107,7 @@ than 20 URLs into batches whose size will be configurable.
 
 ## Logging
 
-`@sensu/embedly` does provide some minimal logging to help diagnose problems. By
+`@creatantdev/embedly` does provide some minimal logging to help diagnose problems. By
 default, a `winston` console logger with log level `error` will be created, but
 only if winston is installed. If you'd like more control over logging, you can
 create your own logger and pass it into embedly on instantiation. ex:

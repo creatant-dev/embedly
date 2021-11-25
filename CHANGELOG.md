@@ -1,4 +1,4 @@
-# @sensu/embedly CHANGELOG
+# @creatantdev/embedly CHANGELOG
 
 ## v3.0.2
 * Removed Winston (@polco)
